@@ -68,13 +68,14 @@ At first, you need to generate the "task_file.txt" using "GenerateTask.m" (MATLA
 ....
 ```
 and specify alpha values / interval width inside the "GenerateTask.m" script (see the comments inside the script):
+```
 ...
 BruteRate_MKs = 200;
 Run_TimeOut_m = 10;
 MAX_Keys_interval = ceil(vpa(BruteRate_MKs * (10^6) * Run_TimeOut_m * 60, vpa_acc));
 alpha_to_seek = vpa([0 0.0078125 0.75 0.82207866191468159655642011784948 0.82817983680743556540448935265886 1], vpa_acc);
 ...
-
+```
 Run the script "GenerateTask.m" to generate the "task_file.txt" that will look like following:
 ```
 ...
