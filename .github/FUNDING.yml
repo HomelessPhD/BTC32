@@ -1,3 +1,5 @@
 # These are supported funding model platforms
 
-custom: ["1QKjnfVsTT1KXzHgAFUbTy3QbJ2Hgy96WU", BTC,"LNQopZ7ozXPQtWpCPrS4mGGYRaE8iaj3BE", LTC,"DQvfzvVyb4tnBpkd3DRUfbwJjgPSjadDTb", DOGE]
+bitcoin: 1QKjnfVsTT1KXzHgAFUbTy3QbJ2Hgy96WU 
+litecoin: LNQopZ7ozXPQtWpCPrS4mGGYRaE8iaj3BE
+dogecoing: DQvfzvVyb4tnBpkd3DRUfbwJjgPSjadDTb
