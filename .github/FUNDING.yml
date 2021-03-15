@@ -1,5 +1,3 @@
 # These are supported funding model platforms
 
-bitcoin: 1QKjnfVsTT1KXzHgAFUbTy3QbJ2Hgy96WU 
-litecoin: LNQopZ7ozXPQtWpCPrS4mGGYRaE8iaj3BE
-dogecoing: DQvfzvVyb4tnBpkd3DRUfbwJjgPSjadDTb
+custom: ["https://www.blockchain.com/btc/address/1QKjnfVsTT1KXzHgAFUbTy3QbJ2Hgy96WU","https://blockchair.com/litecoin/address/LNQopZ7ozXPQtWpCPrS4mGGYRaE8iaj3BE","https://dogechain.info/address/DQvfzvVyb4tnBpkd3DRUfbwJjgPSjadDTb"]
