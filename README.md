@@ -4,7 +4,7 @@ Shortly, the "32 BTC Puzzle" is not a puzzle at all but rather a bruteforce Benc
 
 In 2015(+2017), someone made a series of transactions to a series of specific BTC addresses [2].
 
-In 2015 addresses contained 32 BTC, but in 2017 the creator have increased this value for more than 100 BTC ( and most of them are still there to be spent by smart guys, luckers or by the creator)
+In 2015 addresses contained 32 BTC, but in 2017 the creator has increased this value for more than 100 BTC ( and most of them are still there to be spent by smart guys, luckers or by the creator)
 
 Generally a BTC Private Key (the thing that provides an access to funds stored under the specific BTC address) is an integer value of a 256 bits length (256 of {0 or 1}) or 64 HEXadecimal (16 base) values. The BTC address taken from the explorer above actually obtained form an appropriate (and unknown) BTC private keys through a series of HASHING procedures that takes computing time. Generally, to find a Private Key for the specific BTC address cracker will need to try all 2^256 ({0/1} x {0/1} x ... {0/1}) possible Private Keys, generating a BTC address for each and comparing with an interesting address.
 
