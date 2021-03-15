@@ -1,12 +1,4 @@
 # These are supported funding model platforms
-
-I am poor Ukrainian student that will really appreciate any donations.
-I have no home (flat\appartment), live in the dorm trying to accumulate funds
-for the smallest flat in the city - with no success at the moment,
-have nearly 10% of needed amount.
-
-**BTC**:  `1QKjnfVsTT1KXzHgAFUbTy3QbJ2Hgy96WU`
-
-**LTC**:  `LNQopZ7ozXPQtWpCPrS4mGGYRaE8iaj3BE`
-
-**DOGE**: `DQvfzvVyb4tnBpkd3DRUfbwJjgPSjadDTb`
+custom: ["1QKjnfVsTT1KXzHgAFUbTy3QbJ2Hgy96WU", BTC]
+custom: ["LNQopZ7ozXPQtWpCPrS4mGGYRaE8iaj3BE", LTC]
+custom: ["DQvfzvVyb4tnBpkd3DRUfbwJjgPSjadDTb", DOGE]
