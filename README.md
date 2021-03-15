@@ -117,6 +117,11 @@ technology.  The "large bitcoin collider" is especially innovative and interesti
 ```
 Seems like the author does not protest against hacking, but on the contrary encourages both hacking and the development of tools that facilitate hacking (perhaps having an ulterior motive -  somewhere outside bitcoin there could be a less secure cryptographic system that will be hacked using tools we are developing solving this "32BTC puzzle")
 
+## P.S.
+Now (15/03/2021) i'm going to work on my PhD thesis, expecting to return (get back in working on BTC Puzzles) in one month (~15/04/2021). Thank you for spending time on my notes, i hope it was not totally useless and you've found some interesting. 
+
+Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com.
+
 -------------------------------------------------------------------------
 ### References:
 [1] BTC32 Bitcointalk topic - https://bitcointalk.org/index.php?topic=1306983.0
