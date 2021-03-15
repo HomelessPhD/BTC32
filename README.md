@@ -1,7 +1,7 @@
 Here i am going to publish my ideas and dummy instruments related to 32 BTC Puzzle [1]. 
 
 Shortly, the "32 BTC Puzzle" is not a puzzle at all but rather a bruteforce BenchMark or specific BruteForcing contest that aimed to compose fast and reliable instrument for BTC Private Keys bruteforce from one hand and to check how the BTC cryptography is secure at the moment. 
-  h<sub2>&theta;</sub2>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+ 
 In 2015(+2017), someone made a series of transactions to a series of specific BTC addresses [2].
 
 In 2015 addresses contained 32 BTC, but in 2017 the creator has increased this value for more than 100 BTC ( and most of them are still there to be spent by smart guys, luckers or by the creator)
