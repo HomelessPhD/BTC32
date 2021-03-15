@@ -107,11 +107,12 @@ Resulted in the next status_all.txt - my setup expected up to 9.5-10 minutes: so
 The comment from an author of this contest (BTC 32 Puzzle) could be found on the mentioned bitcointalk topic [1']
 ```
 ....
+A few words about the puzzle.  There is no pattern.  It is just consecutive keys from a deterministic 
+wallet (masked with leading 000...0001 to set difficulty).  It is simply a crude measuring instrument, 
+of the cracking strength of the community.
 
-A few words about the puzzle.  There is no pattern.  It is just consecutive keys from a deterministic wallet (masked with leading 000...0001 to set difficulty).  It is simply a crude measuring instrument, of the cracking strength of the community.
-
-Finally, I wish to express appreciation of the efforts of all developers of new cracking tools and technology.  The "large bitcoin collider" is especially innovative and interesting!
-
+Finally, I wish to express appreciation of the efforts of all developers of new cracking tools and 
+technology.  The "large bitcoin collider" is especially innovative and interesting!
 ....
 ```
 Seems like the author does not protest against hacking, but on the contrary encourages both hacking and the development of tools that facilitate hacking (perhaps having an ulterior motive -  somewhere outside bitcoin there could be a less secure cryptographic system that will be hacked using tools we are developing solving this "32BTC puzzle")
