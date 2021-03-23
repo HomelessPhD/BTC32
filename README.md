@@ -52,7 +52,7 @@ One that could be said definitely - there is no any linear tendency or relation 
 
 Nevermind, folders "BTC32_Brute_GenTask" and "BTC32_Brute" are made to simplify the process of running the BruteForce on several tiny intervals of alpha values for a specific BTC addresses.
 
-At first, you need to generate the "task_file.txt" using "GenerateTask.m" (MATLAB\Octave script) - to do so specify the BTC addresses you are willing to brute along with their indices (amount of unknown bits) in file "Pzl32_unspentList.csv":
+At first, you need to generate the "task_file.txt" using "GenerateTask.m" (MATLAB\Octave script: for example "octave GenerateTask.m", you will need an octave or MATLAB for this step) - to do so specify the BTC addresses you are willing to brute along with their indices (amount of unknown bits) in file "Pzl32_unspentList.csv":
 ```
 ....
 66,"13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so"
