@@ -81,7 +81,7 @@ Run the script "GenerateTask.m" to generate the "task_file.txt" that will look l
 67,0.007813,407FFFFF207B8A800:40800000DF8475800,1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9
 ...
 ```
-Finally, place the generated "task_file.txt" in the folder "BTC32_Brute". Before running the script "BTC32_narrow_search.sh" - you'll need to place a BitCrack project folder taken from [1], compile it (CUDA\CL) and modify "BTC32_narrow_search.sh" to suite your version of BitCrack (see the script comments). The script will simply loop through all lines of "task_file.txt" running them through the BitCrack. The results and debug info will be stored in unique folder - example could be found in "BTC32_Brute_Examples" (read the comments of the script).
+Finally, place the generated "task_file.txt" in the folder "BTC32_Brute". Before running the script "BTC32_narrow_search.sh" - you'll need to place a BitCrack project folder taken from [1] (OR unzip the BitCrack-master.zip), compile it (CUDA\CL) and modify "BTC32_narrow_search.sh" to suite your version of BitCrack (see the script comments). The script will simply loop through all lines of "task_file.txt" running them through the BitCrack. The results and debug info will be stored in unique folder - example could be found in "BTC32_Brute_Examples" (read the comments of the script).
 
 Before the real job - i'd recommend you to test your setup with some already "solved/spent" Private Keys. 
 Good example of such test you may find in "BTC32_Brute_Examples" - "output_LYoc8Q" where two BTC addresses are brutted with alphas taken from "BTC32_analysis/alpha.csv":
