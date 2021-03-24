@@ -59,7 +59,7 @@ At first, you need to generate the "task_file.txt" using "GenerateTask.m" (MATLA
 67,"1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9"
 ....
 ```
-and specify alpha values / interval width inside the "GenerateTask.m" script (see the comments inside the script):
+and specify alpha values / interval width inside the "GenerateTask.m" script (see the comments inside the script, shortly - Brute_MKs is expected bruteforce speed in million keys per second / Run_TimeOut_m is desired timeout for bruteforce / alpha_to_seek are desired alpha values given in [] brackets):
 ```
 ...
 BruteRate_MKs = 200;
