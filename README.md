@@ -119,6 +119,9 @@ Seems like the author does not protest against hacking, but on the contrary enco
 
 Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com.
 
+## P.S.
+Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
+
 -------------------------------------------------------------------------
 ### References:
 [1] BTC32 Bitcointalk topic - https://bitcointalk.org/index.php?topic=1306983.0
