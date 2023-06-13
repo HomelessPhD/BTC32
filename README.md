@@ -6,7 +6,7 @@ In 2015(+2017 (+++2023)), someone made a series of transactions to a series of s
 ([[2']](https://www.blockchain.com/explorer/transactions/btc/5d45587cfd1d5b0fb826805541da7d94c61fe432259e68ee26f4a04544384164),  [[2'']](https://www.blockchain.com/explorer/transactions/btc/12f34b58b04dfb0233ce889f674781c0e0c7ba95482cca469125af41a78d13b3))
 
 In 2015 addresses contained 32 BTC, but in 2017 the creator has increased this value for more than 100 BTC ( and most of them are still there to be spent by smart guys, luckers or by the creator).
-***AND in 2023 the creator have increased the wallets balance DRASTICALLY - up to 1000 BTC in total. The #66 address now contain 6.6 BTC, while #125 - 12.5 BTC***
+***AND in 2023 the creator has increased the wallets balance DRASTICALLY - up to 1000 BTC in total. The #66 address now contain 6.6 BTC, while #125 - 12.5 BTC***
 
 BTC Private Key (the thing that provides an access to funds stored under the specific BTC address) is an integer value of a 256 bits length (256 of {0 or 1}) or 64 HEXadecimal (16 base) values. The BTC address taken from the explorer above[[2]](https://www.blockchain.com/btc/tx/08389f34c98c606322740c0be6a7125d9860bb8d5cb182c02f98461e5fa6cd15) actually obtained form an appropriate (and unknown) BTC private keys through a series of HASHING procedures that takes computing time. Generally, to find the Private Key for the specific BTC address cracker will need to try all 2<sup>256</sup> ({0/1} x {0/1} x ... {0/1}) possible Private Keys, generating a BTC address for each and comparing with the address of interest.
 
