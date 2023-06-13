@@ -155,3 +155,5 @@ P.S. Successfully evacuated from occupied regions of Ukraine.
 **LTC**:  `LNQopZ7ozXPQtWpCPrS4mGGYRaE8iaj3BE`
 
 **DOGE**: `DQvfzvVyb4tnBpkd3DRUfbwJjgPSjadDTb`
+ 
+ **BSV**: `1E56gGQ1rYG4kkRo5qPLMK7PHcpVYj15Pv`
